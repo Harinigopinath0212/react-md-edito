@@ -1,1 +1,1 @@
-# react-md-edito
+core/README.md
